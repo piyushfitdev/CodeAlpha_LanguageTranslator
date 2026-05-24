@@ -40,7 +40,8 @@ CodeAlpha_LanguageTranslator/
 
 ## Output Screenshot
 
-(Add your screenshot here)
+<img width="867" height="657" alt="image" src="https://github.com/user-attachments/assets/5ecc8c0b-377c-4f77-b027-1696548c8287" />
+
 
 ## Author
 Piyush Kumar
